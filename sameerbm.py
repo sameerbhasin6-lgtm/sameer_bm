@@ -18,7 +18,7 @@ st.markdown("""
     @import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap');
     html, body, [class*="css"] {font-family: 'Lato', sans-serif;}
     
-    .block-container {padding-top: 3rem; padding-bottom: 2rem;}
+    .block-container {padding-top: 5rem; padding-bottom: 2rem;}
     
     /* Axis Burgundy Colors */
     h1, h2, h3 {color: #861F41 !important;} 
