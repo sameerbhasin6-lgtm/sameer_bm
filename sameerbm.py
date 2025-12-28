@@ -18,7 +18,7 @@ st.markdown("""
     @import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap');
     html, body, [class*="css"] {font-family: 'Lato', sans-serif;}
     
-    .block-container {padding-top: 1.5rem; padding-bottom: 2rem;}
+    .block-container {padding-top: 3rem; padding-bottom: 2rem;}
     
     /* Axis Burgundy Colors */
     h1, h2, h3 {color: #861F41 !important;} 
@@ -32,8 +32,8 @@ st.markdown("""
     
     /* Decision Card Styling */
     .decision-card {
-        padding: 25px; 
-        border-radius: 12px; 
+        padding: 20px; 
+        border-radius: 110px; 
         text-align: center;
         box-shadow: 0 4px 15px rgba(0,0,0,0.1); 
         margin-top: 10px;
